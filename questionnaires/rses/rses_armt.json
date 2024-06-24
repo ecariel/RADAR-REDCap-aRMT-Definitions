@@ -2,28 +2,24 @@
     {
         "field_name": "rses_1",
         "form_name": "rses",
-        "section_header": "",
+        "section_header": "How often, in the past two weeks, have you experienced any of the following?",
         "field_type": "radio",
-        "field_label": "1. On the whole, I am satisfied with myself",
+        "field_label": "1. There is always someone you can talk to about your daily problems.",
         "select_choices_or_calculations": [
             {
                 "code": "0",
-                "label": "Strongly disagree "
+                "label": "No"
             },
             {
                 "code": "1",
-                "label": "Disagree "
+                "label": "More or less"
             },
             {
                 "code": "2",
-                "label": "Agree "
-            },
-            {
-                "code": "3",
-                "label": "Strongly agree"
+                "label": "Yes"
             }
         ],
-        "field_note": "",
+        "field_note": "(−)",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
         "text_validation_max": "",
@@ -42,26 +38,22 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "2. At times, I think I am no good at all",
+        "field_label": "2. You miss having a real friend.",
         "select_choices_or_calculations": [
             {
                 "code": "0",
-                "label": "Strongly disagree "
+                "label": "No"
             },
             {
                 "code": "1",
-                "label": "Disagree "
+                "label": "More or less"
             },
             {
                 "code": "2",
-                "label": "Agree "
-            },
-            {
-                "code": "3",
-                "label": "Strongly agree"
+                "label": "Yes"
             }
         ],
-        "field_note": "",
+        "field_note": "(+)",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
         "text_validation_max": "",
@@ -80,26 +72,22 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "3. I feel that I have a number of good qualities",
+        "field_label": "3. You experience a sense of emptiness around you.",
         "select_choices_or_calculations": [
             {
                 "code": "0",
-                "label": "Strongly disagree "
+                "label": "No"
             },
             {
                 "code": "1",
-                "label": "Disagree "
+                "label": "More or less"
             },
             {
                 "code": "2",
-                "label": "Agree "
-            },
-            {
-                "code": "3",
-                "label": "Strongly agree"
+                "label": "Yes"
             }
         ],
-        "field_note": "",
+        "field_note": "(+)",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
         "text_validation_max": "",
@@ -118,26 +106,22 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "4. I am able to do things as well as most other people",
+        "field_label": "4. There are enough people you can rely on when you have problems.",
         "select_choices_or_calculations": [
             {
                 "code": "0",
-                "label": "Strongly disagree "
+                "label": "No"
             },
             {
                 "code": "1",
-                "label": "Disagree "
+                "label": "More or less"
             },
             {
                 "code": "2",
-                "label": "Agree "
-            },
-            {
-                "code": "3",
-                "label": "Strongly agree"
+                "label": "Yes"
             }
         ],
-        "field_note": "",
+        "field_note": "(−)",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
         "text_validation_max": "",
@@ -156,26 +140,22 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "5. I feel I do not have much to be proud of",
+        "field_label": "5. You miss the company of other people.",
         "select_choices_or_calculations": [
             {
                 "code": "0",
-                "label": "Strongly disagree "
+                "label": "No"
             },
             {
                 "code": "1",
-                "label": "Disagree "
+                "label": "More or less"
             },
             {
                 "code": "2",
-                "label": "Agree "
-            },
-            {
-                "code": "3",
-                "label": "Strongly agree"
+                "label": "Yes"
             }
         ],
-        "field_note": "",
+        "field_note": "(+)",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
         "text_validation_max": "",
@@ -194,26 +174,22 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "6. I certainly feel useless at times",
+        "field_label": "6. You think your circle of friends is too limited.",
         "select_choices_or_calculations": [
             {
                 "code": "0",
-                "label": "Strongly disagree "
+                "label": "No"
             },
             {
                 "code": "1",
-                "label": "Disagree "
+                "label": "More or less"
             },
             {
                 "code": "2",
-                "label": "Agree "
-            },
-            {
-                "code": "3",
-                "label": "Strongly agree"
+                "label": "Yes"
             }
         ],
-        "field_note": "",
+        "field_note": "(+)",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
         "text_validation_max": "",
@@ -232,26 +208,22 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "7. I feel that I'm a person of worth, at least on an equal plane with others.",
+        "field_label": "7. There are many people you can trust completely.",
         "select_choices_or_calculations": [
             {
                 "code": "0",
-                "label": "Strongly disagree "
+                "label": "No"
             },
             {
                 "code": "1",
-                "label": "Disagree "
+                "label": "More or less"
             },
             {
                 "code": "2",
-                "label": "Agree "
-            },
-            {
-                "code": "3",
-                "label": "Strongly agree"
+                "label": "Yes"
             }
         ],
-        "field_note": "",
+        "field_note": "(−)",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
         "text_validation_max": "",
@@ -270,26 +242,22 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "8. I wish I could have more respect for myself",
+        "field_label": "8. There are enough people with whom you have a very close relationship.",
         "select_choices_or_calculations": [
             {
                 "code": "0",
-                "label": "Strongly disagree "
+                "label": "No"
             },
             {
                 "code": "1",
-                "label": "Disagree "
+                "label": "More or less"
             },
             {
                 "code": "2",
-                "label": "Agree "
-            },
-            {
-                "code": "3",
-                "label": "Strongly agree"
+                "label": "Yes"
             }
         ],
-        "field_note": "",
+        "field_note": "(−)",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
         "text_validation_max": "",
@@ -308,26 +276,22 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "9. All in all, I am inclined to feel that I am a failure",
+        "field_label": "9. You miss having people around you.",
         "select_choices_or_calculations": [
             {
                 "code": "0",
-                "label": "Strongly disagree "
+                "label": "No"
             },
             {
                 "code": "1",
-                "label": "Disagree "
+                "label": "More or less"
             },
             {
                 "code": "2",
-                "label": "Agree "
-            },
-            {
-                "code": "3",
-                "label": "Strongly agree"
+                "label": "Yes"
             }
         ],
-        "field_note": "",
+        "field_note": "(+)",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
         "text_validation_max": "",
@@ -346,26 +310,56 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "10. I take a positive attitude towards myself.",
+        "field_label": "10. You often feel abandoned.",
         "select_choices_or_calculations": [
             {
                 "code": "0",
-                "label": "Strongly disagree "
+                "label": "No"
             },
             {
                 "code": "1",
-                "label": "Disagree "
+                "label": "More or less"
             },
             {
                 "code": "2",
-                "label": "Agree "
-            },
-            {
-                "code": "3",
-                "label": "Strongly agree"
+                "label": "Yes"
             }
         ],
-        "field_note": "",
+        "field_note": "(+)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "rses",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "rses_11",
+        "form_name": "rses",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "11. You can count on your friends whenever you need them.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "More or less"
+            },
+            {
+                "code": "2",
+                "label": "Yes"
+            }
+        ],
+        "field_note": "(−)",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
         "text_validation_max": "",
