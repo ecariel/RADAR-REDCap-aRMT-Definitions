@@ -1,6 +1,5 @@
 [
     {
-        
         "field_name": "auditupm_1",
         "form_name": "auditupm",
         "section_header": "Con respecto al consumo de alcohol ...",
@@ -42,8 +41,7 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-    {
-        
+    {   
         "field_name": "auditupm_2",
         "form_name": "auditupm",
         "section_header": "Con respecto al consumo de alcohol ...",
@@ -85,9 +83,7 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-
-    {
-        
+    {    
         "field_name": "auditupm_3",
         "form_name": "auditupm",
         "section_header": "Con respecto al consumo de alcohol ...",
@@ -129,9 +125,7 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-
-    {
-        
+    {   
         "field_name": "auditupm_4",
         "form_name": "auditupm",
         "section_header": "Con respecto al consumo de alcohol ...",
@@ -173,9 +167,7 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-
-    {
-        
+    {    
         "field_name": "auditupm_5",
         "form_name": "auditupm",
         "section_header": "Con respecto al consumo de alcohol ...",
@@ -217,9 +209,7 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-
-    {
-        
+    {     
         "field_name": "auditupm_6",
         "form_name": "auditupm",
         "section_header": "Con respecto al consumo de alcohol ...",
@@ -261,9 +251,7 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-
-    {
-        
+    {     
         "field_name": "auditupm_7",
         "form_name": "auditupm",
         "section_header": "Con respecto al consumo de alcohol ...",
@@ -305,9 +293,7 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-
-    {
-        
+    {     
         "field_name": "auditupm_8",
         "form_name": "auditupm",
         "section_header": "Con respecto al consumo de alcohol ...",
@@ -349,9 +335,7 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-
-    {
-        
+    {        
         "field_name": "auditupm_9",
         "form_name": "auditupm",
         "section_header": "Con respecto al consumo de alcohol ...",
@@ -385,9 +369,7 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-
-    {
-        
+    {     
         "field_name": "auditupm_10",
         "form_name": "auditupm",
         "section_header": "Con respecto al consumo de alcohol ...",
