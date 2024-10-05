@@ -1,6 +1,5 @@
 [
     {
-        
         "field_name": "ipaq_1",
         "form_name": "ipaq",
         "section_header": "Think about all the VIGOROUS activities you have done in the last 7 days. Vigorous physical activities refer to those that involve intense physical exertion and make you breathe much harder than normal. Think only of those physical activities that you did for at least 10 minutes at a time.",
@@ -53,8 +52,7 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-    {
-        
+    {  
         "field_name": "ipaq_2",
         "form_name": "ipaq",
         "section_header": "Think about all the VIGOROUS activities you have done in the last 7 days. Vigorous physical activities refer to those that involve intense physical exertion and make you breathe much harder than normal. Think only of those physical activities that you did for at least 10 minutes at a time.",
@@ -107,8 +105,7 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-    {
-        
+    {   
         "field_name": "ipaq_3",
         "form_name": "ipaq",
         "section_header": "Think about all the MODERATE activities you have done in the last 7 days. Moderate activities are those that require moderate physical exertion that makes you breathe a little harder than normal. Think only of those activities that you did for at least 10 minutes at a time.",
@@ -161,8 +158,7 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-    {
-        
+    {   
         "field_name": "ipaq_4",
         "form_name": "ipaq",
         "section_header": "Think about all the MODERATE activities you have done in the last 7 days. Moderate activities are those that require moderate physical exertion that makes you breathe a little harder than normal. Think only of those activities that you did for at least 10 minutes at a time.",
@@ -215,8 +211,7 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-    {
-        
+    {    
         "field_name": "ipaq_5",
         "form_name": "ipaq",
         "section_header": "Think about how much time you spent WALKING in the last 7 days. This includes walking at work or at home, to get from one place to another, or any other walking that you might do just for recreation, sport, exercise, or leisure.",
@@ -269,8 +264,7 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-    {
-        
+    {   
         "field_name": "ipaq_6",
         "form_name": "ipaq",
         "section_header": "Think about how much time you spent WALKING in the last 7 days. This includes walking at work or at home, to get from one place to another, or any other walking that you might do just for recreation, sport, exercise, or leisure.",
@@ -323,8 +317,7 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-    {
-        
+    {   
         "field_name": "ipaq_7",
         "form_name": "ipaq",
         "section_header": "The last question is about the time you spent SITTING during the last 7 working days. This includes time spent at work, at home, in a classroom, and during free time. It may include time spent sitting at a desk, reading, riding the bus, or sitting or lying down to watch TV.",
