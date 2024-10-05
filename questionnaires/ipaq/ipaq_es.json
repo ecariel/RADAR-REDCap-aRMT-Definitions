@@ -1,6 +1,5 @@
 [
     {
-        
         "field_name": "ipaq_1",
         "form_name": "ipaq",
         "section_header": "Piense en todas las actividades vigorosas que ha realizado en los últimos 7 días.Las actividades físicas vigorosas se refieren a aquellas que implican un esfuerzo físico intenso y te hacen respirar mucho más de lo normal.Piense solo en esas actividades físicas que hizo durante al menos 10 minutos a la vez.",
@@ -53,8 +52,7 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-    {
-        
+    { 
         "field_name": "ipaq_2",
         "form_name": "ipaq",
         "section_header": "Piense en todas las actividades vigorosas que ha realizado en los últimos 7 días.Las actividades físicas vigorosas se refieren a aquellas que implican un esfuerzo físico intenso y te hacen respirar mucho más de lo normal.Piense solo en esas actividades físicas que hizo durante al menos 10 minutos a la vez.",
@@ -107,8 +105,7 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-    {
-        
+    {   
         "field_name": "ipaq_3",
         "form_name": "ipaq",
         "section_header": "Piense en todas las actividades vigorosas que ha realizado en los últimos 7 días.Las actividades físicas vigorosas se refieren a aquellas que implican un esfuerzo físico intenso y te hacen respirar mucho más de lo normal.Piense solo en esas actividades físicas que hizo durante al menos 10 minutos a la vez.",
@@ -161,8 +158,7 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-    {
-        
+    {  
         "field_name": "ipaq_4",
         "form_name": "ipaq",
         "section_header": "Piense en todas las actividades vigorosas que ha realizado en los últimos 7 días.Las actividades físicas vigorosas se refieren a aquellas que implican un esfuerzo físico intenso y te hacen respirar mucho más de lo normal.Piense solo en esas actividades físicas que hizo durante al menos 10 minutos a la vez.",
@@ -215,8 +211,7 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-    {
-        
+    {   
         "field_name": "ipaq_5",
         "form_name": "ipaq",
         "section_header": "Piense en cuánto tiempo pasó caminando en los últimos 7 días.Esto incluye caminar en el trabajo o en casa, para llegar de un lugar a otro, o cualquier otro caminar que pueda hacer solo por recreación, deporte, ejercicio o ocio.",
@@ -270,7 +265,6 @@
         "evaluated_logic": ""
     },
     {
-        
         "field_name": "ipaq_6",
         "form_name": "ipaq",
         "section_header": "Piense en cuánto tiempo pasó caminando en los últimos 7 días.Esto incluye caminar en el trabajo o en casa, para llegar de un lugar a otro, o cualquier otro caminar que pueda hacer solo por recreación, deporte, ejercicio o ocio.",
@@ -323,8 +317,7 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-    {
-        
+    {  
         "field_name": "ipaq_7",
         "form_name": "ipaq",
         "section_header": "La última pregunta es sobre el tiempo que pasaste sentado durante los últimos 7 días hábiles.Esto incluye el tiempo que pasa en el trabajo, en el hogar, en un salón de clases y durante el tiempo libre.Puede incluir el tiempo que pasa sentado en un escritorio, leyendo, viajando en el autobús o sentado o acostado para ver televisión.",
