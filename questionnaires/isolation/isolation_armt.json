@@ -1,5 +1,26 @@
 [
     {
+        "field_name": "hsleep",
+        "form_name": "isolation",
+        "section_header": "We would like to know how much you sleep",
+        "field_type": "text",
+        "field_label": "How many hours do you usually sleep at night?",
+        "select_choices_or_calculations": [],
+        "field_note": "Enter an integer value.",
+        "text_validation_type_or_show_slider_number": "integer",
+        "text_validation_min": "0",
+        "text_validation_max": "13",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
         "field_name": "heacta",
         "form_name": "isolation",
         "section_header": "We would like to know the type and amount of physical activity involved in daily life.",
